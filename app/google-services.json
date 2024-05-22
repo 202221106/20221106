@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27714612541",
+    "project_id": "icy-toppings-bacfd",
+    "storage_bucket": "icy-toppings-bacfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27714612541:android:40824b96606c7a8c26a954",
+        "android_client_info": {
+          "package_name": "com.example.icytoppings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSZ7lj5-BGxUsi97H55WJGh3tfuTa188"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27714612541:android:f6662d56882e953726a954",
+        "android_client_info": {
+          "package_name": "com.example.icytoppings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPSZ7lj5-BGxUsi97H55WJGh3tfuTa188"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
