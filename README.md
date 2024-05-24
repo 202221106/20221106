@@ -1,4 +1,4 @@
 # Icecream shop Project 
-# Icy Topppings
+# Icy Toppings
 # Said AlNaimi
 # 2022201106
